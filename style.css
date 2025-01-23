@@ -46,12 +46,12 @@ body {
 .navbar-right a {
   text-decoration: none;
   color: white;
-  background-color: #007bff;
+  background-color: #0f0f0f;
   padding: 8px 16px;
   border-radius: 51px;
   transition: background-color 0.3s;
 }
 
 .navbar-right a:hover {
-  background-color: #0056b3;
+  background-color: #171717;
 }
